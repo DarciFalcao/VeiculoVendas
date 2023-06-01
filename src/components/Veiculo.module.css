@@ -1,0 +1,20 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  gap:20px;
+  height: 100vh;
+  padding: 10px 60px;
+}
+
+.main input {
+  max-width: 500px;
+}
+
+.main button {
+  max-width: 500px;
+  background-color: var(--green-500);
+  border: none;
+}
+.main table {
+  max-width: 500px;
+}
